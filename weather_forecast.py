@@ -5,7 +5,7 @@ locations = []
 forecast_urls = []
 temperatures = []
 input_file = 'locations.txt'
-output_file = 'Wednesday_night_temperatures.txt'
+output_file = 'wednesday_night_temperatures.txt'
 
 # read data from input file
 with open(input_file, encoding='utf-8') as f: # decode file as utf-8
